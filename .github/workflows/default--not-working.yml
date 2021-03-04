@@ -1,4 +1,4 @@
-name: repro
+name: Default Checkout
 
 on:
   push:
